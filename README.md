@@ -9,7 +9,7 @@ Screenshot Tugas :
 Counter :
 
 
-![Image description](link-to-image)
+![Counter](https://github.com/andhikafitra88/Bean_Counter_Progress/blob/master/ss/counter.png)
 
 
 Progress Bar :
